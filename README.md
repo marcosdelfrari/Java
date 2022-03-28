@@ -1,2 +1,2 @@
 # Java
-Java Projects
+Aplications in java for pratic
